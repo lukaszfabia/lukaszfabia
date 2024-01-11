@@ -9,3 +9,4 @@
   <img height=190 align="center" float=left src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukaszfabia&layout=compact&theme=tokyonight&langs_count=6" />
 </a>
 
+![snake gif](https://github.com/lukaszfabia/lukaszfabia/blob/output/github-contribution-grid-snake.gif)
